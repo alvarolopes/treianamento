@@ -30,9 +30,9 @@ Este plano visa **músculo funcional + endurance**, não estética.
 | Dia | Manhã / Academia | Noite |
 |----|------------------|-------|
 | Segunda | **LEGS (força + hipertrofia)** | — |
-| Terça | **CORE + Estabilização** | Corrida + Natação |
+| Terça | **CORE + Estabilização** + Natação | Corrida |
 | Quarta | **PULL (costas + bíceps)** | Corrida |
-| Quinta | **CORE + Estabilização** | Corrida + Natação |
+| Quinta | **CORE + Estabilização** + Natação | Corrida |
 | Sexta | **PUSH (peito + ombro + tríceps)** | Corrida |
 | Sábado | **DESCANSO TOTAL** | — |
 | Domingo | — | Corrida Longa |
